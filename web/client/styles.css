@@ -1,13 +1,13 @@
 body {
-    background-color: #427A43;
+    background-color: #B7B597;
 }
 
 .Project-name {
-    color: white;
+    color: 254336;
 }
 
 p {
-    color: white;
+    color: 254336;
 }
 
 #Title-Head {
@@ -15,7 +15,7 @@ p {
     flex-direction: column-reverse;
     justify-content: space-between;
     align-items: center;
-    color: #F2E3BB;
+    color: black;
 }
 
 #Photo-Of-Rein {
@@ -25,18 +25,20 @@ p {
 .col {
     border-radius: 25px;
     padding: 20px;
-    background-color: #C0B87A;
+    background-color: #DAD3BE;
     margin: 1%;
+    box-shadow: 2.0px 4.0px 4.0px hsl(0deg 0% 0% / 0.44);
 }
 
 #border-header {
-    background-color: #005F02;
+    background-color: #6B8A7A;
     margin-bottom: 2%;
     padding: 1%;
+    box-shadow: 2.0px 4.0px 4.0px hsl(0deg 0% 0% / 0.44);
 }
 
 #header-footer-text {
-    color: #F2E3BB;
+    color: black;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
