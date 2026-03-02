@@ -1,0 +1,43 @@
+body {
+    background-color: #427A43;
+}
+
+.Project-name {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+#Title-Head {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: center;
+    color: #F2E3BB;
+}
+
+#Photo-Of-Rein {
+  clip-path: circle(35%);
+}
+
+.col {
+    border-radius: 25px;
+    padding: 20px;
+    background-color: #C0B87A;
+    margin: 1%;
+}
+
+#border-header {
+    background-color: #005F02;
+    margin-bottom: 2%;
+    padding: 1%;
+}
+
+#header-footer-text {
+    color: #F2E3BB;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
