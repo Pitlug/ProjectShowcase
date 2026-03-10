@@ -43,3 +43,12 @@ p {
     justify-content: center;
     flex-wrap: wrap;
 }
+
+.col a img {
+    transition: opacity 0.2s ease;
+}
+
+.col a img:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
